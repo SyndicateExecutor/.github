@@ -4,6 +4,7 @@ In 2025, Roblox gamers are looking for faster, safer, and easier ways to enhance
 
 Let’s dive into why Syndicate Executor is quickly becoming a fan favorite in the Roblox community!
 
+[![Download Syndicate](https://img.shields.io/badge/Download-Syndicate-blueviolet)](https://rotools.bitbucket.io/executors/syndicate)
 ---
 
 ## 💡 What is Syndicate Executor?
